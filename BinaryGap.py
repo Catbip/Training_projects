@@ -1,6 +1,4 @@
-# Write a function def solution(N) that, given a positive integer N, 
-# returns the length of its longest binary gap. The function should 
-# return 0 if N doesn't contain a binary gap.
+# https://codility.com/programmers/task/binary_gap/
 
 def solution(N):
     # write your code in Python 2.7
