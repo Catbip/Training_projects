@@ -1,9 +1,4 @@
-# A zero-indexed array A consisting of N different integers is given. 
-# The array contains integers in the range [1..(N + 1)], which means 
-# that exactly one element is missing. Your goal is to find that missing element.
-
-# Write a function def solution(A) that, given a zero-indexed array A, 
-# vreturns the value of the missing element.
+# https://codility.com/programmers/task/perm_missing_elem/
 
 def solution(A):
   sum_a = sum(A)
