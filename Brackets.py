@@ -1,5 +1,4 @@
-Write a function def solution(S) that, given a string S consisting of N characters, 
-returns 1 if S is properly nested and 0 otherwise.
+# https://codility.com/programmers/task/brackets/
 
 def solution(S):
     stack = []
